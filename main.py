@@ -13,5 +13,5 @@ class fff:
         self.current += 1
         return result
 
-for value in PowerOfTwo(5):
+for value in fff(5):
     print(value)
